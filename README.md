@@ -4,12 +4,22 @@ This is a repository to store all the projects that I will be completing in the 
 
 **Completed:**
 
-Easy Projects:
+*Easy Projects:*
 
-[x] Loan Calculator
+- [x] Loan Calculator
+  
 
-Medium Projects:
+- [x] Last Pencil
+  
 
-Hard Projects:
+*Medium Projects:
 
-Challenging Projects:
+*
+
+*Hard Projects:
+
+*
+
+*Challenging Projects:
+
+*
