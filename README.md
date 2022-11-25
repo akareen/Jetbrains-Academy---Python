@@ -12,14 +12,12 @@ This is a repository to store all the projects that I will be completing in the 
 - [x] Last Pencil
   
 
-*Medium Projects:
+*Medium Projects:*
 
-*
+- [x] Tic-Tac-Toe
 
 *Hard Projects:
 
-*
 
 *Challenging Projects:
 
-*
