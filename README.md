@@ -16,8 +16,11 @@ This is a repository to store all the projects that I will be completing in the 
 
 - [x] Tic-Tac-Toe
 
-*Hard Projects:
+- [x] Currency Converter
 
 
-*Challenging Projects:
+*Hard Projects:*
+
+
+*Challenging Projects:*
 
