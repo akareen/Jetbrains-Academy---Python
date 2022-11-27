@@ -18,6 +18,7 @@ This is a repository to store all the projects that I will be completing in the 
 *Hard Projects:*
 
 - [x] Tic-Tac-Toe with AI
+- [ ] Text Generator
 
 *Challenging Projects:*
 
