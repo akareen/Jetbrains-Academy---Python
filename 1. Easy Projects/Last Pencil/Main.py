@@ -1,7 +1,7 @@
 import string
 
 def take_pencil_input():
-    print("How many pencils would you like to use:\n")
+    print("How many pencils would you like to use:")
     while True:
         try:
             num_pencils = int(input())
@@ -15,7 +15,7 @@ def take_pencil_input():
 
 def take_name_input():
     names = ["John", "Jack"]
-    print("Who will be the first (John, Jack):\n")
+    print("Who will be the first (John, Jack):")
     while True:
         person_name = input()
         if person_name in names:
